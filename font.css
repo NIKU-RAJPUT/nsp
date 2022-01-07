@@ -39,6 +39,8 @@ a:hover{
     background-color: #156ee2;
 }
 .right{
+    font-size: 50px;
+    color: aliceblue;
     display: flex;
     height: 101px;
     width: 50%;
@@ -58,8 +60,8 @@ search:hover{
 body h1{
     font-size: 35PX;
     text-align: center;
-    background-color: aqua;
-margin-top: 0px;
+    color: #156ee2;
+    margin-top: 0px;
 }
 #search{
     padding: 5px;

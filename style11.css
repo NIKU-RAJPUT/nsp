@@ -58,8 +58,8 @@ search:hover{
 body h1{
     font-size: 35PX;
     text-align: center;
-    background-color: aqua;
-margin-top: 0px;
+    color: #156ee2;
+    margin-top: 0px;
 }
 #search{
     padding: 5px;
